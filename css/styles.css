@@ -192,4 +192,14 @@ a:hover {
   top: 1px;
 }
 
+.classes {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+.classes:hover {
+  color: #66BFBF;
+}
+
 /**************** id selector **************/
