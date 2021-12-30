@@ -2,11 +2,6 @@
 
 Website showing my early skills using HTML & CSS
 
-## Summary
-
-- [Technologies](#technologies)
-- [Live Demo](#live-demo)
-
 ## Technologies
 
 - HTML
