@@ -9,4 +9,4 @@ Website showing my early skills using HTML & CSS
 
 ## Live Demo
 
-[Click Here to View](https://clue355.github.io/personal_site_v1/)
+[Click Here to View](https://clue355.github.io/portfolio_v1/)
